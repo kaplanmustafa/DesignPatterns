@@ -1,4 +1,4 @@
-package factory;
+package creational.abtractfactory;
 
 public class Note8 implements Telefon {
 

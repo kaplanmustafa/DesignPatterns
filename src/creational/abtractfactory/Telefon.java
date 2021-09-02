@@ -1,4 +1,4 @@
-package factory;
+package creational.abtractfactory;
 
 public interface Telefon {
 
